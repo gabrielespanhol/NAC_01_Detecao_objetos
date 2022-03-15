@@ -34,11 +34,11 @@ Explique como rodar o seu projeto. Quais programas instalar, como configurar...
 * 
 
 
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
+Para clonar esse repositório:
 
     cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
+    git https://github.com/gabrielespanhol/NAC_01_Detecao_objetos
+    cd NAC_01_Detecao_objetos
     ls
 
 
