@@ -14,6 +14,9 @@
 
 Segmenta apenas os círculos maiores da imagem, Exibe na imagem a área e o centro de massa dos círculos e o ângulo de inclinação da reta em relação ao plano horizontal.
 
+Foram usadas as bibliotecas cv2, matplotlib, numpy, math
+
+
 
 ## Diagrama do projeto
 
@@ -28,9 +31,9 @@ Segmenta apenas os círculos maiores da imagem, Exibe na imagem a área e o cent
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+Para rodar o projeto. É necessario ter instalado as bibliotecas cv2, matplotlib, numpy 
 
-* Rodar sempre o notebook do começo para evitar erros nas imagems 
+* Rodar sempre o notebook do começo para evitar erros nas imagens 
 * 
 
 
