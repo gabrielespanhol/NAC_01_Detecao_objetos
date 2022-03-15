@@ -12,7 +12,7 @@
 
 ## Objetivo / descrição do Projeto
 
-Segmenta apenas os círculos maiores da imagem, Exibe na imagem a área e o centro de massa dos círculos e o ângulo de inclinação da reta em relação ao plano horizontal.
+Segmentar apenas os círculos maiores da imagem, Exibir na imagem a área e o centro de massa dos círculos e o ângulo de inclinação da reta em relação ao plano horizontal.
 
 Foram usadas as bibliotecas cv2, matplotlib, numpy, math
 
