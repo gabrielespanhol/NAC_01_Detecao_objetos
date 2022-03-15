@@ -40,8 +40,8 @@ Para rodar o projeto. É necessario ter instalado as bibliotecas cv2, matplotlib
 Para clonar esse repositório:
 
     cd /home/iot
-    git https://github.com/gabrielespanhol/NAC_01_Detecao_objetos
-    cd NAC_01_Detecao_objetos
+    git https://github.com/gabrielespanhol/NAC_01_Deteccao_objetos
+    cd NAC_01_Deteccao_objetos
     ls
 
 
