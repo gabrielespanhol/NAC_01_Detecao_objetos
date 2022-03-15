@@ -10,27 +10,21 @@
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Segmenta apenas os círculos maiores da imagem, Exibe na imagem a área e o centro de massa dos círculos e o ângulo de inclinação da reta em relação ao plano horizontal.
+
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
-<img src="/imagem.jpg" width="550">
+<img src="/circulo_Final.png" width="550">
 
 
 ## Como usar 
 
 Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+* 
+* 
 
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
 
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
 
@@ -39,12 +33,6 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
     cd templatenac
     ls
 
-
-## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
 
 ### Referências 
