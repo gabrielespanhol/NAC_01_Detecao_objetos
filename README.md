@@ -2,11 +2,9 @@
 
 # THE TWO
 
-**nome dos alunos: ** 
+*Isabella Oliveira Queiroz RM: 83588 *
 
-***Isabella Oliveira Queiroz RM: 83588 *** 
-
-***Gabriel Espanhol Henrique Santos RM: 83955  *** 
+*Gabriel Espanhol Henrique Santos RM: 83955  *
 
 **Turma: SIS**
 
