@@ -2,7 +2,11 @@
 
 # THE TWO
 
-**nome dos alunos:** 
+**nome dos alunos: ** 
+
+***Isabella Oliveira Queiroz RM: 83588 *** 
+
+***Gabriel Espanhol Henrique Santos RM: 83955  *** 
 
 **Turma: SIS**
 
@@ -15,6 +19,12 @@ Segmenta apenas os círculos maiores da imagem, Exibe na imagem a área e o cent
 
 ## Diagrama do projeto
 
+### Imagem de entrada
+
+<img src="/circulo.png" width="550">
+
+### Imagem de saida
+
 <img src="/circulo_Final.png" width="550">
 
 
@@ -22,7 +32,7 @@ Segmenta apenas os círculos maiores da imagem, Exibe na imagem a área e o cent
 
 Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
 
-* 
+* Rodar sempre o notebook do começo para evitar erros nas imagems 
 * 
 
 
@@ -37,5 +47,5 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 ### Referências 
 
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Calculo-area-circulo-python](https://www.delftstack.com/pt/howto/python/calculate-slope-python/)
+* [OpenCV-Contour Features](https://docs.opencv.org/3.1.0/dd/d49/tutorial_py_contour_features.html)
