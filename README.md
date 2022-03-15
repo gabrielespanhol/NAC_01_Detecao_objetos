@@ -34,7 +34,6 @@ Foram usadas as bibliotecas cv2, matplotlib, numpy, math
 Para rodar o projeto. É necessario ter instalado as bibliotecas cv2, matplotlib, numpy 
 
 * Rodar sempre o notebook do começo para evitar erros nas imagens 
-* 
 
 
 Para clonar esse repositório:
