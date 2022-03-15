@@ -23,7 +23,7 @@ Segmenta apenas os círculos maiores da imagem, Exibe na imagem a área e o cent
 
 ### Imagem de saida
 
-<img src="/circulo_Final.png" width="550">
+<img src="/circulo_saida.png" width="550">
 
 
 ## Como usar 
