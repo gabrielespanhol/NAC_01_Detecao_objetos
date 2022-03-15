@@ -1,14 +1,12 @@
-# Template para desenvolvimento e entrega de NAC
+# entrega de NAC
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
-# Nome do projeto
+# THE TWO
 
 **nome dos alunos:** 
 
-**Turma:**
+**Turma: SIS**
 
-**Ano:**
+**Ano: 4**
 
 ## Objetivo / descrição do Projeto
 
